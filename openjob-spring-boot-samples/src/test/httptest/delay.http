@@ -1,0 +1,10 @@
+GET http://127.0.0.1:8888/test/index
+
+### webhook
+POST http://127.0.0.1:8888/test/webhook
+accept: */*
+Content-Type: application/json
+
+{
+
+}

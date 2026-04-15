@@ -1,1 +1,2 @@
-# openjob-ui-sample-plus
+# openjob-samples
+Openjob samples
